@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Appointment>
+    <Title>Interview with client</Title>
+    <StartTime>Saturday, May 8, 2021</StartTime>
+    <EndTime>Sunday, May 9, 2021</EndTime>
+    <Location>LC2</Location>
+    <Occurence>Recurring</Occurence>
+</Appointment>
